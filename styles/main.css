@@ -11,7 +11,7 @@ padding: 0;
     width: 970px;
      
 }
-.page1 p,.page1 h2,.page1 h3,.page3 p,.page3 h2{
+.page1 p,.page1 h2,.page1 h3,.page3 p,.page3 h2,.page3 h5{
     width: 900px;
 }
 .page1 p{
@@ -32,11 +32,13 @@ padding: 0;
     
 }
 /* page2*/
+
+
 /* page3*/
 .page3{
     background-color: black;
     margin: 40px 0px 0px 30px;
-    padding: 10px 0px 10px 0px;
+    padding: 10px 0px 0 0px;
     height: 830px;
     width: 980px;
 }
@@ -48,6 +50,29 @@ padding: 0;
 .page3 h2{
     background-color:yellow;
     margin: 0px 50px 40px 30px;
+    padding: 10px 0px 0px 0px;
     height: 240px;
     
+}
+.page3 h2 div,.page3 h2 article{
+    height: 100px;
+    width: 850px;
+}
+.page3 h2 div{
+   background-color: orange;
+   margin: 0px 15px 20px 15px;
+   
+
+}
+.page3 h2 article{
+    background-color: blue;
+    margin: 0px 15px 0px 15px;
+}
+
+.page3 h5{
+ background-color: red;
+ margin: 0px 60px 0px 20px;  
+ height: 200px;
+ 
+ 
 }
