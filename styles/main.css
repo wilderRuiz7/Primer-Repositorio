@@ -1,0 +1,53 @@
+/* index*/
+*{
+margin: 0;
+padding: 0;
+}
+.page1{
+    background-color: yellow;
+    margin: 60px 0px 0px 80px;
+    padding: 10px 0px 30px 0px;
+    height: 1390px;
+    width: 970px;
+     
+}
+.page1 p,.page1 h2,.page1 h3,.page3 p,.page3 h2{
+    width: 900px;
+}
+.page1 p{
+    background-color: green;
+    margin: 10px 30px 20px 40px;
+    height: 600px;
+}
+.page1 h2{
+    background-color: red;
+    margin: 0px 10px 30px 60px;
+    height: 400px;
+    
+}
+.page1 h3{
+    background-color: blue;
+    margin: 0px 40px 0px 30px;
+    height: 300px;
+    
+}
+/* page2*/
+/* page3*/
+.page3{
+    background-color: black;
+    margin: 40px 0px 0px 30px;
+    padding: 10px 0px 10px 0px;
+    height: 830px;
+    width: 980px;
+}
+.page3 p{
+    background-color: green;
+    margin: 0px 40px 30px 40px;
+    height: 300px;
+}
+.page3 h2{
+    background-color:yellow;
+    margin: 0px 50px 40px 30px;
+    height: 240px;
+    
+}
